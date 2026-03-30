@@ -82,7 +82,6 @@ Seasonality applied monthly: January 80%, February 75%, December 150% of average
 | Ending Cash Balance (Month 60) | $267M |
 | Store Count Growth | 1,000 → 1,060 |
 | Cities Hitting Cannibalization Threshold | 6 of 26 |
-| FMWC Validation Score | 25 of 26 questions correct |
 
 ### Recommendation: Proceed with Expansion — with Density Guardrails
 
