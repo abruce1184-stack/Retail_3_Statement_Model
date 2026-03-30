@@ -2,8 +2,7 @@
 
 > Extended practice build using a competition case by **Andrew Grigolyunovich, CFA, MFM** (FMWC). 
 > The model and dashboard were built from scratch using the original narrative case and assumptions 
-> table. Accuracy was verified against 25 of 26 official FMWC validation questions.
-
+> table. 
 ---
 
 ## Overview
@@ -108,7 +107,7 @@ This model was built as an extended practice exercise using a competition case b
 **Andrew Grigolyunovich, CFA, MFM** for the **Financial Modeling World Cup** — a global 
 competition where participants build financial models under timed conditions. The originating 
 materials included a narrative case description and assumptions and original store table. The 
-model and dashboard were built from scratch. Accuracy was verified against 25 of 26 official 
+model and dashboard were built from scratch. Accuracy was verified against 25 official 
 FMWC validation questions.
 
 *Part of the [Alicia Bruce Data & Financial Analytics Portfolio](https://www.notion.so/Data-Financial-Analytics-Portfolio-323b743fecb880c49f67d0ada9312832)*
